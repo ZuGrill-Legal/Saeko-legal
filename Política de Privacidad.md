@@ -6,7 +6,7 @@
 
 - Información básica de la cuenta de Discord (nombre de usuario, ID, avatar)
 - Contenido de mensajes encriptados enviados por los usuarios y respuestas de Saeko
-- IDs de servidores a los que se ha agregado Saeko
+- ID de servidores a los que se ha agregado Saeko
 - Otros datos, como registros de errores
 
 ## Cómo utilizamos la información
