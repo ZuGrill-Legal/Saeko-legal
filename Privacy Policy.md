@@ -5,7 +5,7 @@ Last updated: August 21, 2023
 ## What information we collect
 
 - Basic Discord account info (username, ID, avatar)
-- Encrypted message contents sent by users and PrismGPT response
+- Encrypted message contents sent by users and Saeko response
 - Server IDs that Saeko is added to
 - Other data like error logs
 
