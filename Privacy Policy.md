@@ -1,50 +1,50 @@
-# Saeko Privacy Policy
+# Política de Privacidad de Saeko
 
-Last updated: August 21, 2023
+Última actualización: 21 de agosto de 2023
 
-## What information we collect
+## Qué información recopilamos
 
-- Basic Discord account info (username, ID, avatar)
-- Encrypted message contents sent by users and Saeko response
-- Server IDs that Saeko is added to
-- Other data like error logs
+- Información básica de la cuenta de Discord (nombre de usuario, ID, avatar)
+- Contenido de mensajes encriptados enviados por los usuarios y respuestas de Saeko
+- IDs de servidores a los que se ha agregado Saeko
+- Otros datos, como registros de errores
 
-## How we use information
+## Cómo utilizamos la información
 
-- Provide features and services  
-- Respond to commands and requests
-- Improve quality of the bot
-- Debug issues and improve security
-- Voting timestamp and user ID from top.gg (for voter exclusive features)
-- Debug issues and improve security
-- Provide voter exclusive features based on voting timestamp and user ID from top.gg
+- Proporcionar funciones y servicios
+- Responder a comandos y solicitudes
+- Mejorar la calidad del bot
+- Depurar problemas y mejorar la seguridad
+- Marca de tiempo de votación e ID de usuario de top.gg (para funciones exclusivas de votantes)
+- Depurar problemas y mejorar la seguridad
+- Proporcionar funciones exclusivas para votantes basadas en la marca de tiempo de votación e ID de usuario de top.gg
 
-## How we share information
+## Cómo compartimos la información
 
-We do not share your personal information except:
+No compartimos su información personal excepto:
 
-- With your consent
-- To comply with laws or regulations
-- To protect rights and safety
+- Con su consentimiento
+- Para cumplir con leyes o regulaciones
+- Para proteger derechos y seguridad
 
-## Data retention
+## Retención de datos
 
-We retain your personal data as long as you use Saeko. Aggregated, anonymized data may be retained.  
+Retenemos sus datos personales mientras use Saeko. Se puede retener información agregada y anonimizada.
 
-## Your rights
+## Sus derechos
 
-You can request deletion of your data by emailing saekogpt@gmail.com.
+Puede solicitar la eliminación de sus datos enviando un correo electrónico a saekogpt@gmail.com.
 
-You can opt out of non-essential communications.
+Puede optar por no recibir comunicaciones no esenciales.
 
-## Security
+## Seguridad
 
-We take reasonable security measures but cannot guarantee absolute security.
+Tomamos medidas de seguridad razonables, pero no podemos garantizar seguridad absoluta.
 
-## Changes
+## Cambios
 
-We may change this policy and will notify of significant changes.
+Podemos cambiar esta política y notificaremos cambios significativos.
 
-## Contact
+## Contacto
 
-Email saekogpt@gmail.com with privacy questions.
+Envíe un correo electrónico a saekogpt@gmail.com para preguntas sobre privacidad.
