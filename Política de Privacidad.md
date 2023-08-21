@@ -1,6 +1,6 @@
 # Política de Privacidad de Saeko
 
-Última actualización: 21 de agosto de 2023
+Última actualización: 211 de agosto de 2023
 
 ## Qué información recopilamos
 
